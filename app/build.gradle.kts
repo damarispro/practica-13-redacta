@@ -48,5 +48,6 @@ dependencies {
     ksp(libs.hilt.compiler)
     implementation(libs.androidx.hilt.lifecycle.viewmodel.compose)
 
+    implementation(libs.litertlm.android)
     debugImplementation(libs.androidx.ui.tooling)
 }
